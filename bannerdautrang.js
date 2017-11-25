@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/TTaKVL' target='_blank'><img src='https://2.bp.blogspot.com/-l7YxqYspGO4/WhmXsM-lx9I/AAAAAAAAAFs/JPbJFkw5KIoBQi1o5ko_PEfb0lw03FaEACLcBGAs/s1600/quang-cao-bo-phat-wifi-4g.jpg' width='500px'/><br/>Tầm nhìn triệu $</a>. Bên Sông Sài Gòn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/TTaKVL' target='_blank'><img src='https://2.bp.blogspot.com/-l7YxqYspGO4/WhmXsM-lx9I/AAAAAAAAAFs/JPbJFkw5KIoBQi1o5ko_PEfb0lw03FaEACLcBGAs/s1600/quang-cao-bo-phat-wifi-4g.jpg' width='500px'/><br/>Bộ phát wifi 4g</a>. HÀNG NHẬP KHẨU TẠI GIA HƯNG TP.HCM. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
